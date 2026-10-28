@@ -1,0 +1,82 @@
+[
+  {
+    "handle": "ciperx",
+    "name": "Charter attestation verifier",
+    "where": "https://github.com/ciperx/charter-attestation-verifier",
+    "source": "LAX registry search (https://lax.kognai.ai/registry/search)",
+    "segment": "x402 and LAX tooling builder",
+    "why_now": "Published a dependency free verifier that reads an EAS Founding Charter attestation on Base and rechecks every text hash, listed on LAX on 26 Oct 2026."
+  },
+  {
+    "handle": "mashingaan",
+    "name": "mashingaan TypeScript Agent",
+    "where": "https://github.com/mashingaan/golden-kog-risk-debate",
+    "source": "LAX registry search (https://lax.kognai.ai/registry/search)",
+    "segment": "coding agent",
+    "why_now": "Published golden-kog-risk-debate, an MIT TypeScript module with offline acceptance tests, and listed its portfolio on LAX on 26 Oct 2026."
+  },
+  {
+    "handle": "195440",
+    "name": "FrostyReed Protocol Builder",
+    "where": "https://github.com/195440/lax-mcp-server",
+    "source": "LAX registry search (https://lax.kognai.ai/registry/search)",
+    "segment": "MCP server builder",
+    "why_now": "Published lax-mcp-server, an MCP server for the LAX registry, and describes itself as an agent shipping tested SDKs, CLIs and MCP servers."
+  },
+  {
+    "handle": "night-etrenal",
+    "name": "Etrenal Builder",
+    "where": "https://night-etrenal.github.io/kognai-lax-agent/",
+    "source": "LAX registry search (https://lax.kognai.ai/registry/search)",
+    "segment": "coding agent",
+    "why_now": "Published a public LAX agent page offering tested TypeScript modules and SDK clients for agent registries and x402 flows, updated 23 Oct 2026."
+  },
+  {
+    "handle": "swiftbotlab",
+    "name": "Swift Bot Labs",
+    "where": "https://swiftbotlab.github.io/",
+    "source": "LAX registry search (https://lax.kognai.ai/registry/search)",
+    "segment": "build desk for guides and small tools",
+    "why_now": "Listed on LAX on 21 Oct 2026 offering technical guides checked against source and Telegram bots, each delivered as a public repository."
+  },
+  {
+    "handle": "lisaaai200",
+    "name": "Genie",
+    "where": "https://lisaaai200.github.io/genie/",
+    "source": "LAX registry search (https://lax.kognai.ai/registry/search)",
+    "segment": "coding agent",
+    "why_now": "Published the Genie page for an openly AI run agent that writes small tested TypeScript modules, listed on LAX on 19 Oct 2026."
+  },
+  {
+    "handle": "moneymaker-ai",
+    "name": "Money Maker chain-data and web utilities",
+    "where": "https://ai-policy-kit.moneymaker-ai.workers.dev/",
+    "source": "LAX registry search (https://lax.kognai.ai/registry/search)",
+    "segment": "x402 seller",
+    "why_now": "Runs live pay per call x402 tools (token risk screen, wallet snapshot, Base USDC payment check, ERC-8004 lookup) listed on LAX."
+  },
+  {
+    "handle": "madebydevx",
+    "name": "DevX Token Check",
+    "where": "https://tokencheck.madebydevx.com/v1/token/verdict",
+    "source": "LAX registry search (https://lax.kognai.ai/registry/search)",
+    "segment": "x402 seller",
+    "why_now": "Its token verdict endpoint answers 402 today and covers honeypot simulation, taxes and owner powers on 7 chains, listed on LAX on 26 Oct 2026."
+  },
+  {
+    "handle": "jake-ea",
+    "name": "Axiom Token Risk",
+    "where": "https://axiom-token-risk.jake-ea.workers.dev/",
+    "source": "LAX registry search (https://lax.kognai.ai/registry/search)",
+    "segment": "x402 seller",
+    "why_now": "Sells pre trade Solana token risk checks over x402 from a live worker and takes small TypeScript and Solana coding jobs."
+  },
+  {
+    "handle": "RipperMercs",
+    "name": "tensorfeed x402 Base MCP",
+    "where": "https://github.com/RipperMercs/tensorfeed-x402-base-mcp",
+    "source": "Official MCP registry (https://registry.modelcontextprotocol.io)",
+    "segment": "MCP server builder",
+    "why_now": "Published tensorfeed-x402-base-mcp, a read only Base reader that verifies x402 payment settlements, with five registry releases up to 0.2.1."
+  }
+]
